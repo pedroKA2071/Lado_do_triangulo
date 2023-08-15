@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\bin\Debug\Lado do triangulo.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\bin\Debug\Lado do triangulo.exe
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\bin\Debug\Lado do triangulo.pdb
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\obj\Debug\Lado do triangulo.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\obj\Debug\Lado do triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\obj\Debug\Lado do triangulo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\obj\Debug\Lado do triangulo.exe
+C:\Users\pedro.hgaspar2\source\repos\Lado_do_triangulo\Lado do triangulo\Lado do triangulo\obj\Debug\Lado do triangulo.pdb
